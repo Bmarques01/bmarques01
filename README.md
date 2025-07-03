@@ -1,5 +1,4 @@
-Hello, world! I'm Bruna ✨😊
-🖥️ Computer Science student
+Hello, world! I'm Bruna ✨
 
 
 <!--

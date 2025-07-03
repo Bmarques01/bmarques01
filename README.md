@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello, world! I'm Bruna ✨😊
+🖥️ Computer Science student
+
 
 <!--
 **Bmarques01/bmarques01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

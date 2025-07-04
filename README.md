@@ -1,5 +1,7 @@
 Hello, world! ✨
+<p>
 I'm Bruna, a passionate Computer Science student and programming enthisiast. 
+</p>
 
 💻 Tech stack
 <p>

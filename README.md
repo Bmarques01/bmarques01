@@ -1,17 +1,12 @@
-Hello, world! I'm Bruna ✨
+Hello, world! ✨
+I'm Bruna, a passionate Computer Science student and programming enthisiast. 
+
+💻 Tech stack
+<p>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" width="40px" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" width="40px" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width="40px" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="40px" alt="JavaScript"/>
+</p>
 
 
-<!--
-**Bmarques01/bmarques01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
